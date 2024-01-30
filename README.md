@@ -1,0 +1,1 @@
+Welcome to my first project from the AI class during my college studies. This project features a Tic Tac Toe game with a challenging twist – the opponent is an unbeatable AI. Brace yourself for a strategic battle where victory may be elusive, but a tie is still within reach. Let the games begin! 🤖✨
